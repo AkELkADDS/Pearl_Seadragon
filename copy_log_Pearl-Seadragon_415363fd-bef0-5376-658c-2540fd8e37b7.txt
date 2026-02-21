@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7 
-   Mon 11/10/2025 20:33:51.22 
+   Sun 02/22/2026  1:27:31.50 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -343,7 +343,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, November 10, 2025 8:33:54 PM
+  Started : Sunday, February 22, 2026 1:27:34 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\
      Dest : C:\GIT_BG3\MOD_REPOS\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Projects\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\
 
@@ -354,7 +354,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     693	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\meta.lsx100%  
-	    New File  		   7.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\thumbnail.png 13%  100%  
+	    New File  		   7.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\thumbnail.png  0%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -367,7 +367,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           7906175000 Bytes/sec.
    Speed :           452394.962 MegaBytes/min.
-   Ended : Monday, November 10, 2025 8:33:54 PM
+   Ended : Sunday, February 22, 2026 1:27:34 AM
 
  
 [DEBUG] Counting source files 
@@ -393,7 +393,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, November 10, 2025 8:33:56 PM
+  Started : Sunday, February 22, 2026 1:27:36 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\
      Dest : C:\GIT_BG3\MOD_REPOS\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Editor\Mods\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\
 
@@ -417,7 +417,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           201905000 Bytes/sec.
    Speed :           11553.096 MegaBytes/min.
-   Ended : Monday, November 10, 2025 8:33:56 PM
+   Ended : Sunday, February 22, 2026 1:27:36 AM
 
  
 [DEBUG] Counting source files 
@@ -443,7 +443,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, November 10, 2025 8:33:58 PM
+  Started : Sunday, February 22, 2026 1:27:38 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\
      Dest : C:\GIT_BG3\MOD_REPOS\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Mods\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\
 
@@ -453,8 +453,8 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
-	    New File  		    6357	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\meta.lsx100%  
-	    New File  		   7.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\mod_publish_logo.png  0%  100%  
+	    New File  		   13315	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\meta.lsx100%  
+	    New File  		   7.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\mod_publish_logo.png100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\GUI\metadata.lsf100%  
 	    New File  		   18408	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Localization\English\english.xml100%  
 
@@ -463,13 +463,13 @@ SECTION 2: COPY OPERATIONS
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         4         4         1         0         0         0
    Files :         4         4         0         0         0         0
-   Bytes :    7.56 m    7.56 m         0         0         0         0
+   Bytes :    7.57 m    7.57 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2643796000 Bytes/sec.
-   Speed :           151279.220 MegaBytes/min.
-   Ended : Monday, November 10, 2025 8:33:58 PM
+   Speed :           3969173000 Bytes/sec.
+   Speed :           227117.900 MegaBytes/min.
+   Ended : Sunday, February 22, 2026 1:27:38 AM
 
  
 [DEBUG] Counting source files 
@@ -495,7 +495,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, November 10, 2025 8:33:59 PM
+  Started : Sunday, February 22, 2026 1:27:40 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\
      Dest : C:\GIT_BG3\MOD_REPOS\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\
 
@@ -516,7 +516,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\1279b0ea-7df9-806a-218c-1e6c2b5117bf.lsf100%  
 	    New File  		    2624	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\12f35c9e-6caa-411d-a7ef-811001a44554.lsf100%  
 	    New File  		    2676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\1935ab94-f730-48ea-abb9-00a09967637b.lsf100%  
-	    New File  		    3699	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\19c8b29c-8c01-4130-ba7d-fc315908865c.lsf100%  
+	    New File  		    3820	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\19c8b29c-8c01-4130-ba7d-fc315908865c.lsf100%  
 	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\1a344f16-402c-3343-349c-c9388e068486.lsf100%  
 	    New File  		    2625	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\1b257872-f6df-47a8-862e-de0280887814.lsf100%  
 	    New File  		    2675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\1cae49d2-814f-471c-a2b4-2701de53323d.lsf100%  
@@ -544,8 +544,8 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\5e5a455f-57c1-b646-9a82-bceefe8e7791.lsf100%  
 	    New File  		    1655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\613e2e47-4732-c82d-f46e-8d1cdeca7170.lsf100%  
 	    New File  		    2623	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\63f98363-db11-4f55-8e8d-1fd44ef9bf35.lsf100%  
-	    New File  		    3694	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\65baf048-f8b2-48c3-84b1-9ed7b8b8507d.lsf100%  
-	    New File  		    3699	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\6da477b4-e419-42a8-88d3-257c2f0fc669.lsf100%  
+	    New File  		    3815	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\65baf048-f8b2-48c3-84b1-9ed7b8b8507d.lsf100%  
+	    New File  		    3820	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\6da477b4-e419-42a8-88d3-257c2f0fc669.lsf100%  
 	    New File  		    2617	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\773d25c6-399d-43aa-ac9e-4f78f956e7b7.lsf100%  
 	    New File  		    2685	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\781b2488-644e-4023-896b-ee7c2cb5d86c.lsf100%  
 	    New File  		    2840	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\7b9c30a4-6a71-4aeb-ad9c-fd7527c17e2c.lsf100%  
@@ -573,7 +573,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\dba27d62-43e4-83d9-1bb7-4a6cc01be86d.lsf100%  
 	    New File  		    2625	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\dce1777c-00cb-4632-a953-e84cf8b71320.lsf100%  
 	    New File  		    2617	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\dd59efa7-9455-4117-9159-a58dead366b5.lsf100%  
-	    New File  		   44321	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\de60ef80-56bd-2abe-ae7c-cbf07e1b16a7.lsf100%  
+	    New File  		   45889	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\de60ef80-56bd-2abe-ae7c-cbf07e1b16a7.lsf100%  
 	    New File  		    2675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\e080d042-a256-404d-979f-28d1b4783322.lsf100%  
 	    New File  		    2675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\e22efbf2-d200-47a3-b1be-55ad4e29eee3.lsf100%  
 	    New File  		    1646	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Content\[PAK]_Pearl-Seadragon\e99cfbf0-efe1-16f7-16e2-a85c68323770.lsf100%  
@@ -603,78 +603,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Pearl\Head\DGB_EL_F_Head_Pearl_DMHR_HMVY.DDS100%  
 	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Pearl\Head\DGB_EL_F_Head_Pearl_DMHR_MSK.DDS100%  
 	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Pearl\Head\DGB_EL_F_Head_Pearl_DMHR_NM.DDS100%  
-	    New File  		  185064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Body\_Female\Tail\DGB_F_Tail_A_EL_Seadragon\DGB_F_NKD_Tail_A_Pearl.GR2100%  
-	    New File  		   57324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_FA.GR2100%  
-	    New File  		   59672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_FB.GR2100%  
-	    New File  		   58460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_FC.GR2100%  
-	    New File  		   87956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_FD.GR2100%  
-	    New File  		   75772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_FE.GR2100%  
-	    New File  		   51992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_MA.GR2100%  
-	    New File  		   87612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_MC.GR2100%  
-	    New File  		  115844	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_MD.GR2100%  
-	    New File  		   63348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_ME.GR2100%  
-	    New File  		   63376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_MF.GR2100%  
-	    New File  		   70576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_MG.GR2100%  
-	    New File  		   57324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_FA.GR2100%  
-	    New File  		   59672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_FB.GR2100%  
-	    New File  		   58460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_FC.GR2100%  
-	    New File  		   87956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_FD.GR2100%  
-	    New File  		   75772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_FE.GR2100%  
-	    New File  		   51992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_MA.GR2100%  
-	    New File  		   87612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_MC.GR2100%  
-	    New File  		  115844	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_MD.GR2100%  
-	    New File  		   63348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_ME.GR2100%  
-	    New File  		   63376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_MF.GR2100%  
-	    New File  		   70576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_MG.GR2100%  
-	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon\DGB_F_NKD_Head_C_EL_Top_Horns_Seadragon.GR2100%  
-	    New File  		  335964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_FA.GR2100%  
-	    New File  		  604680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_FB.GR2100%  
-	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_FC.GR2100%  
-	    New File  		  473084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_FD.GR2100%  
-	    New File  		  844148	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_FE.GR2100%  
-	    New File  		  282180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MA.GR2100%  
-	    New File  		  266728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MB.GR2100%  
-	    New File  		  394248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MC.GR2100%  
-	    New File  		  854860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MD.GR2100%  
-	    New File  		  598304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_ME.GR2100%  
-	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MF.GR2  0%  100%  
-	    New File  		  336008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MG.GR2100%  
-	    New File  		  335964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_FA.GR2100%  
-	    New File  		  604680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_FB.GR2100%  
-	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_FC.GR2100%  
-	    New File  		  473084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_FD.GR2100%  
-	    New File  		  844148	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_FE.GR2100%  
-	    New File  		  282180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MA.GR2100%  
-	    New File  		  266728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MB.GR2100%  
-	    New File  		  394248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MC.GR2100%  
-	    New File  		  854860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MD.GR2100%  
-	    New File  		  598304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_ME.GR2100%  
-	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MF.GR2100%  
-	    New File  		  336008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MG.GR2100%  
-	    New File  		  689584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Head\DGB_F_Head_C_EL_Seadragon\DGB_F_Head_C_EL_Seadragon.GR2100%  
-	    New File  		  144348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon\DGB_F_NKD_Head_C_Jaw_Bones_FB_Pearl.GR2100%  
-	    New File  		  144980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_FA.GR2100%  
-	    New File  		   99316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_FB.GR2100%  
-	    New File  		  252588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_FC.GR2100%  
-	    New File  		  250584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_FD.GR2100%  
-	    New File  		  107352	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_FE.GR2100%  
-	    New File  		  202680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_MA.GR2100%  
-	    New File  		  173872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_MC.GR2100%  
-	    New File  		  186332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_MD.GR2100%  
-	    New File  		  216040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_ME.GR2100%  
-	    New File  		  175888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_MF.GR2100%  
-	    New File  		  202500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_MG.GR2100%  
-	    New File  		  144980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_FA.GR2100%  
-	    New File  		   99316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_FB.GR2100%  
-	    New File  		  252588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_FC.GR2100%  
-	    New File  		  250584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_FD.GR2100%  
-	    New File  		  107352	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_FE.GR2100%  
-	    New File  		  202680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_MA.GR2100%  
-	    New File  		  173872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_MC.GR2100%  
-	    New File  		  186332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_MD.GR2100%  
-	    New File  		  216040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_ME.GR2100%  
-	    New File  		  175888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_MF.GR2100%  
-	    New File  		  202500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_MG.GR2100%  
 	    New File  		  185064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Pearl\Tail\DGB_EL_FZ_Tail_Pearl_A.GR2100%  
 	    New File  		   57324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_Pearl_FA.GR2100%  
 	    New File  		     217	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Chin\DGB_EL_FPearl_Chin_Pearl_FA.xml100%  
@@ -717,7 +645,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_Pearl_MB.xml100%  
 	    New File  		  394248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_Pearl_MC.GR2100%  
 	    New File  		     220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_Pearl_MC.xml100%  
-	    New File  		  854860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_Pearl_MD.GR2100%  
+	    New File  		  854860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_Pearl_MD.GR2 91%  100%  
 	    New File  		     220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_Pearl_MD.xml100%  
 	    New File  		  598304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_Pearl_ME.GR2100%  
 	    New File  		     220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FPearl_Top_Pearl_ME.xml100%  
@@ -751,6 +679,78 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     215	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FPearl_Jaw_Pearl_MF.xml100%  
 	    New File  		  202500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FPearl_Jaw_Pearl_MG.GR2100%  
 	    New File  		     215	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FPearl_Jaw_Pearl_MG.xml100%  
+	    New File  		  185064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Body\_Female\Tail\DGB_F_Tail_A_EL_Seadragon\DGB_F_NKD_Tail_A_Pearl.GR2100%  
+	    New File  		   57324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_FA.GR2100%  
+	    New File  		   59672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_FB.GR2100%  
+	    New File  		   58460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_FC.GR2100%  
+	    New File  		   87956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_FD.GR2100%  
+	    New File  		   75772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_FE.GR2100%  
+	    New File  		   51992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_MA.GR2100%  
+	    New File  		   87612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_MC.GR2100%  
+	    New File  		  115844	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_MD.GR2100%  
+	    New File  		   63348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_ME.GR2100%  
+	    New File  		   63376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_MF.GR2100%  
+	    New File  		   70576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Chin_MG.GR2100%  
+	    New File  		   57324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_FA.GR2100%  
+	    New File  		   59672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_FB.GR2100%  
+	    New File  		   58460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_FC.GR2100%  
+	    New File  		   87956	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_FD.GR2100%  
+	    New File  		   75772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_FE.GR2100%  
+	    New File  		   51992	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_MA.GR2100%  
+	    New File  		   87612	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_MC.GR2100%  
+	    New File  		  115844	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_MD.GR2100%  
+	    New File  		   63348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_ME.GR2100%  
+	    New File  		   63376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_MF.GR2100%  
+	    New File  		   70576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Chin\DGB_F_Chin_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Chin_MG.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon\DGB_F_NKD_Head_C_EL_Top_Horns_Seadragon.GR2100%  
+	    New File  		  335964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_FA.GR2100%  
+	    New File  		  604680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_FB.GR2100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_FC.GR2100%  
+	    New File  		  473084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_FD.GR2 83%  100%  
+	    New File  		  844148	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_FE.GR2100%  
+	    New File  		  282180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MA.GR2100%  
+	    New File  		  266728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MB.GR2100%  
+	    New File  		  394248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MC.GR2100%  
+	    New File  		  854860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MD.GR2100%  
+	    New File  		  598304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_ME.GR2100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MF.GR2100%  
+	    New File  		  336008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Top_MG.GR2100%  
+	    New File  		  335964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_FA.GR2100%  
+	    New File  		  604680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_FB.GR2100%  
+	    New File  		   1.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_FC.GR2100%  
+	    New File  		  473084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_FD.GR2100%  
+	    New File  		  844148	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_FE.GR2100%  
+	    New File  		  282180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MA.GR2100%  
+	    New File  		  266728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MB.GR2100%  
+	    New File  		  394248	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MC.GR2100%  
+	    New File  		  854860	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MD.GR2100%  
+	    New File  		  598304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_ME.GR2100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MF.GR2100%  
+	    New File  		  336008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\CrestTop\DGB_F_Top_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Top_MG.GR2100%  
+	    New File  		  689584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Head\DGB_F_Head_C_EL_Seadragon\DGB_F_Head_C_EL_Seadragon.GR2100%  
+	    New File  		  144980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_FA.GR2100%  
+	    New File  		   99316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_FB.GR2100%  
+	    New File  		  252588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_FC.GR2100%  
+	    New File  		  250584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_FD.GR2100%  
+	    New File  		  107352	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_FE.GR2100%  
+	    New File  		  202680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_MA.GR2100%  
+	    New File  		  173872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_MC.GR2100%  
+	    New File  		  186332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_MD.GR2100%  
+	    New File  		  216040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_ME.GR2100%  
+	    New File  		  175888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_MF.GR2100%  
+	    New File  		  202500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Jaw_MG.GR2100%  
+	    New File  		  144980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_FA.GR2100%  
+	    New File  		   99316	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_FB.GR2100%  
+	    New File  		  252588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_FC.GR2100%  
+	    New File  		  250584	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_FD.GR2100%  
+	    New File  		  107352	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_FE.GR2100%  
+	    New File  		  202680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_MA.GR2100%  
+	    New File  		  173872	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_MC.GR2100%  
+	    New File  		  186332	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_MD.GR2100%  
+	    New File  		  216040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_ME.GR2100%  
+	    New File  		  175888	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_MF.GR2100%  
+	    New File  		  202500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon_Vanilla\DGB_F_NKD_Head_C_Pearl_Jaw_MG.GR2100%  
+	    New File  		  144348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\AkELkA Mods_Seadragon_Pearl\AkELkA_SeaDragonborn_Pearl\Generated\Public\AkELkA_DGB_Heads\_Female\Jaw\DGB_F_Jaw_C_EL_Seadragon\DGB_F_NKD_Head_C_Jaw_Bones_FB_Pearl.GR2100%  
 
 ------------------------------------------------------------------------------
 
@@ -758,12 +758,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :        49        49         1         0         0         0
    Files :       246       246         0         0         0         0
    Bytes :  327.39 m  327.39 m         0         0         0         0
-   Times :   0:00:02   0:00:00                       0:00:00   0:00:00
+   Times :   0:00:03   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           794679909 Bytes/sec.
-   Speed :           45471.949 MegaBytes/min.
-   Ended : Monday, November 10, 2025 8:34:00 PM
+   Speed :           653911718 Bytes/sec.
+   Speed :           37417.128 MegaBytes/min.
+   Ended : Sunday, February 22, 2026 1:27:41 AM
 
  
 [DEBUG] Counting source files 
@@ -789,7 +789,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, November 10, 2025 8:34:02 PM
+  Started : Sunday, February 22, 2026 1:27:43 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\
      Dest : C:\GIT_BG3\MOD_REPOS\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\Generated\Public\Pearl-Seadragon_415363fd-bef0-5376-658c-2540fd8e37b7\
 
@@ -848,7 +848,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           103787187 Bytes/sec.
    Speed :            5938.750 MegaBytes/min.
-   Ended : Monday, November 10, 2025 8:34:02 PM
+   Ended : Sunday, February 22, 2026 1:27:43 AM
 
  
 [DEBUG] Counting source files 
