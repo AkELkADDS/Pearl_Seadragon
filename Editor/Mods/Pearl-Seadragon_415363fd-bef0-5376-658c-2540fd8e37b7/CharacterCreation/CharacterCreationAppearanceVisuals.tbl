@@ -43,7 +43,7 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Head_Pearl_DMHR" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
         <field name="UUID" type="IdTableFieldDefinition" value="76e6667d-1efd-4756-8ec0-a8de099610cc" />
@@ -193,7 +193,7 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Pearl_GMWhite" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
         <field name="UUID" type="IdTableFieldDefinition" value="cab023de-a794-4466-913d-3b8f07603059" />
@@ -333,7 +333,7 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Top_Pearl_GMWhite" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_23" />
         <field name="UUID" type="IdTableFieldDefinition" value="f7ec9c77-f4f8-4fb3-8a38-81246d001040" />
@@ -516,7 +516,7 @@
         <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="CCIcon_DGB_EL_A_Jaw_Pearl_Frills" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_36" />
         <field name="UUID" type="IdTableFieldDefinition" value="e6717f9e-aa4f-4b16-8398-e9e777c35b5f" />
@@ -528,7 +528,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="5abb3638-0e34-46f7-bdd5-958d5c80599d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3c8ba068g8f4fga0b3g7cb3g1a58b8db2b84" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_FA" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FA_CliffJut" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -542,7 +542,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="5abb3638-0e34-46f7-bdd5-958d5c80599d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0dd7f7b7g89d4g6ec4g4acdgea77321ed1a7" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FA_CliffJut" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -556,7 +556,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="5abb3638-0e34-46f7-bdd5-958d5c80599d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hea69c2e8gdcd6g0f4dg152agb31d29be4387" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FA_CliffJut" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -571,7 +571,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="12f35c9e-6caa-411d-a7ef-811001a44554" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb4b141b1g54e6g35b4gadf2ge17afb804e05" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_FB" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FB_JewelPoint" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -585,7 +585,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="12f35c9e-6caa-411d-a7ef-811001a44554" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc37527d5gdfe1g0453gf24fg992b99dbbbab" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FB_JewelPoint" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -599,7 +599,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="12f35c9e-6caa-411d-a7ef-811001a44554" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha59f1bf3g0793ga77fg62dag5eb8d0e2a243" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FB_JewelPoint" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -614,7 +614,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9b32ca4d-2966-490f-9f4a-adcc2fcecaff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hef9ec495g45e0ge1fbg3163g8d537ce08b28" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_FC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FC_Stalactite" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -628,7 +628,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9b32ca4d-2966-490f-9f4a-adcc2fcecaff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb418be90g8d43g111eg4202g29498bf9bbbd" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FC_Stalactite" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -642,7 +642,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9b32ca4d-2966-490f-9f4a-adcc2fcecaff" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdc6ed50dge549g8038gafe4g806a7306c7b3" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FC_Stalactite" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -657,7 +657,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="dce1777c-00cb-4632-a953-e84cf8b71320" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0f55cf7bg4000g47d2gd24fgd7c59da2f50e" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_FD" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FD_Pinnacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -671,7 +671,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="dce1777c-00cb-4632-a953-e84cf8b71320" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="habf6c982g29aeg4accgb6d9g53cab17ed37c" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FD_Pinnacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -685,7 +685,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="dce1777c-00cb-4632-a953-e84cf8b71320" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3a79efbdgc678gf168g5600g8c6ac6ae2e81" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FD_Pinnacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -700,7 +700,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="26a5b1e8-3a50-4f7e-8ee7-e85e05915f71" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hed8cdc83g4a21g5db9g5a47ga2ee3953aa98" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_FE" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FE_Apogee" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -714,7 +714,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="26a5b1e8-3a50-4f7e-8ee7-e85e05915f71" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h06c6cb77g2567ge458g9e77g823413dfd079" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FE_Apogee" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -728,7 +728,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="26a5b1e8-3a50-4f7e-8ee7-e85e05915f71" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd2eb7122g1804g5025g9fcbg1fbb4f36770e" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_FE_Apogee" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -743,7 +743,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="63f98363-db11-4f55-8e8d-1fd44ef9bf35" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2304bbc0gee88gb6a5g2111g48035a1bc7af" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_MA" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MA_DaggerPommel" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -757,7 +757,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="63f98363-db11-4f55-8e8d-1fd44ef9bf35" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h666df6cagae5ag0250g570eg99b476c08b40" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MA_DaggerPommel" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -771,7 +771,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="63f98363-db11-4f55-8e8d-1fd44ef9bf35" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c51072cg0f1dgea3cgd611g0c6bffbee8cd" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MA_DaggerPommel" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -786,7 +786,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1b257872-f6df-47a8-862e-de0280887814" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h81297b6cg9519g245cg174bgc1fa41e6d964" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_MC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -800,7 +800,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1b257872-f6df-47a8-862e-de0280887814" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4285cbd8g2ec3g02b8g8987g6703edebb6d8" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -814,7 +814,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1b257872-f6df-47a8-862e-de0280887814" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc5ff10f2g3ad9ge6acgf319geb9a8d7ea675" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MC_Calcified" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -829,7 +829,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="bfed4876-9f0c-4f9d-bbfd-860d3cc91079" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5a67bb1cg180bg51bagb795g84d014bff8bb" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_MD" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MD_Chintacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -843,7 +843,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="bfed4876-9f0c-4f9d-bbfd-860d3cc91079" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdc029592gdc74gf0f7g7960g38dfc8231981" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MD_Chintacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -857,7 +857,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="bfed4876-9f0c-4f9d-bbfd-860d3cc91079" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h015679b5g7253gce75g51c2g84fe76832c46" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MD_Chintacle" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -872,7 +872,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="fdb60a70-767c-4d7a-aa81-f42db98a3c9c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0e369d0dg4689gcd1agda8ag992f11a98e4c" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_ME" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_ME_WaltzingFangs" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -886,7 +886,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="fdb60a70-767c-4d7a-aa81-f42db98a3c9c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfeda6354g035bgd617g7ab4ga138628d1170" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_ME_WaltzingFangs" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -900,7 +900,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="fdb60a70-767c-4d7a-aa81-f42db98a3c9c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h49f35395gab7eg94dag3440g59c197431383" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_ME_WaltzingFangs" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -915,7 +915,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b26308a-6f69-429b-9ec2-14c8dc8d0298" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf90c44a6gc57agb1dagf6a5gdcb43d8eb0b7" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_MF" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MF_HatchetSpike" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -929,7 +929,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b26308a-6f69-429b-9ec2-14c8dc8d0298" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8845425agc561g7beegb71cg0ad16b36af1d" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MF_HatchetSpike" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -943,7 +943,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b26308a-6f69-429b-9ec2-14c8dc8d0298" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h25d597afg54e3gbcd3gc16bgf7619e299f27" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MF_HatchetSpike" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -958,7 +958,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="40cf0ac9-c276-4b20-a9db-f9859b22d266" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6b5699a1g8f4dgda93g8accg7da69a876e64" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Chin_Pearl_MG" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MG_Stentorian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -972,7 +972,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="40cf0ac9-c276-4b20-a9db-f9859b22d266" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h56d59fd3g2894g9351ge94fg82e20385a4ea" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MG_Stentorian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -986,10 +986,10 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="40cf0ac9-c276-4b20-a9db-f9859b22d266" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc3499102gea22g03a5g27f7g8c7a6af8c42f" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_MG_Stentorian" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_69" />
         <field name="UUID" type="IdTableFieldDefinition" value="ce00a55a-1549-4719-bc48-47ffcc4dabb5" />
@@ -1001,7 +1001,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="7b9c30a4-6a71-4aeb-ad9c-fd7527c17e2c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="habe5ac76g9fb9g38e8g4c58gdae5dacf6e66" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_FA" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FA_ReptileFrills" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1015,7 +1015,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="7b9c30a4-6a71-4aeb-ad9c-fd7527c17e2c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbc787b9dgb498g07a8g70d3g314f5b991bce" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FA_ReptileFrills" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1029,7 +1029,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="7b9c30a4-6a71-4aeb-ad9c-fd7527c17e2c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h84e21766g1eddgbaf7gf67dge061db0d2559" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FA_ReptileFrills" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1044,7 +1044,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="43185b1b-e709-4884-b976-c85f7c3164ce" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc9024c29g478fgacd6g9923g52ae1f38a1cb" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_FB" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FB_PredaciousCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1058,7 +1058,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="43185b1b-e709-4884-b976-c85f7c3164ce" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha8c55e2fg31b7ga4a8gfc0cg1791a43e8674" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FB_PredaciousCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1072,7 +1072,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="43185b1b-e709-4884-b976-c85f7c3164ce" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc188418ag3575gc60dg407bg5a568db0752c" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FB_PredaciousCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1087,7 +1087,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="781b2488-644e-4023-896b-ee7c2cb5d86c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hff988bacgcecfg0d69g4141ga3e1cf13ae5f" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_FC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FC_SpinousCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1101,7 +1101,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="781b2488-644e-4023-896b-ee7c2cb5d86c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0b6a3d1bg200eg01f9gbbf6gcc2e767ffd28" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FC_SpinousCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1115,7 +1115,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="781b2488-644e-4023-896b-ee7c2cb5d86c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h916c72f6g022ag29b8gd210gfb97e87dc4cb" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FC_SpinousCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1130,7 +1130,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="c2885e98-df7b-41d8-9f00-dd075a7b17ba" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd144a503g15eeg6149g353eg8da5e69deb15" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_FD" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FD_HalberdBlades" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1144,7 +1144,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="c2885e98-df7b-41d8-9f00-dd075a7b17ba" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h54dd6190g8779gf9bagce71g000c5fac445a" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FD_HalberdBlades" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1158,7 +1158,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="c2885e98-df7b-41d8-9f00-dd075a7b17ba" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h96c6c511g92fag6eafgcceag7a7ec9cceacb" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FD_HalberdBlades" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1173,7 +1173,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e080d042-a256-404d-979f-28d1b4783322" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haf37599cg841egaf33g418bg648158bc2569" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_FE" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FE_ProudPhalanx" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1187,7 +1187,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e080d042-a256-404d-979f-28d1b4783322" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb35bb1b3g8228ga164g6245g01ffa4d106fd" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FE_ProudPhalanx" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1201,7 +1201,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e080d042-a256-404d-979f-28d1b4783322" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2eff9ea7gdf8bg5fc4gdb7dgcb828582b18f" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_FE_ProudPhalanx" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1216,7 +1216,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="5142aea6-b5f4-43fd-a0ca-45d2a5ca2e6f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h79435b9fg04a3g58d7gc19bg3be87f2a3f03" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_MA" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MA_Arcuate" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1230,7 +1230,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="5142aea6-b5f4-43fd-a0ca-45d2a5ca2e6f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8e6cef6agda28gc1dcge08agae58813300dd" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MA_Arcuate" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1244,7 +1244,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="5142aea6-b5f4-43fd-a0ca-45d2a5ca2e6f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h545ea3begc28agd5a5gb7e4g4b085f2f2834" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MA_Arcuate" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1259,7 +1259,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="515ac7bc-74ad-4d2a-b45c-d7365b2a773e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd163285fgb1efgfdd3g4be0ga8b4feb0eb83" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_MB" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MB_ClosingClaws" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1273,7 +1273,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="515ac7bc-74ad-4d2a-b45c-d7365b2a773e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h317a4f4fg14cagd550g2227ge322e1c2cb82" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MB_ClosingClaws" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1287,7 +1287,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="515ac7bc-74ad-4d2a-b45c-d7365b2a773e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h673ba113g7855g7cc5g03a5gb4d5046b7079" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MB_ClosingClaws" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1302,7 +1302,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1f3316eb-bea8-4cda-8662-9c4db184f0da" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3cd5f54agae61gc8ecgd41ege0546cdea2bc" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_MC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MC_GobletHandlers" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1316,7 +1316,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1f3316eb-bea8-4cda-8662-9c4db184f0da" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h38fab200g5a36ge370gfb5fg45dcfbb6a4da" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MC_GobletHandlers" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1330,7 +1330,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1f3316eb-bea8-4cda-8662-9c4db184f0da" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc6c47ff3gc863ge33dg4003gea721b3c9354" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MC_GobletHandlers" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1345,7 +1345,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1935ab94-f730-48ea-abb9-00a09967637b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf1558d88gebe5g14f8g9fc9gdf54bacd80eb" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_MD" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MD_QuilledWedge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1359,7 +1359,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1935ab94-f730-48ea-abb9-00a09967637b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbf3634f9g5386gfd72g7d79g78451a1cbf4e" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MD_QuilledWedge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1373,7 +1373,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1935ab94-f730-48ea-abb9-00a09967637b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1ed73cf7g5044g4862g0e92g7140eee7d934" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MD_QuilledWedge" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1388,7 +1388,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e22efbf2-d200-47a3-b1be-55ad4e29eee3" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf93c6ddg9056g435ag2da5g5b805d3b6cac" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_ME" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_ME_MalformedApex" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1402,7 +1402,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e22efbf2-d200-47a3-b1be-55ad4e29eee3" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfa268368gd0ebg0b49g4666g2078f68e1184" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_ME_MalformedApex" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1416,7 +1416,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e22efbf2-d200-47a3-b1be-55ad4e29eee3" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdb8bc325g34e3gee32g47e3g0357a8961758" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_ME_MalformedApex" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1431,7 +1431,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b734612-eb56-4201-b44f-4cae9289f689" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h782e4b4dg6804g526cg86d0g4fc00ca315a1" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_MF" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MF_Malefic" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1445,7 +1445,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b734612-eb56-4201-b44f-4cae9289f689" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haed7e35dgf712gb372geaa3gd98f611d2231" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MF_Malefic" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1459,7 +1459,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b734612-eb56-4201-b44f-4cae9289f689" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6c8da465g5bcfgb95ega1a1gae1d47c89691" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MF_Malefic" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1474,7 +1474,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1cae49d2-814f-471c-a2b4-2701de53323d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha2485664g16fagd4cfg714cg31e11a42dbe2" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Top_Pearl_MG" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MG_Ophidian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1488,7 +1488,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1cae49d2-814f-471c-a2b4-2701de53323d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he4275ce7g883ega926g1b29g41a5f0960f5a" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MG_Ophidian" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1502,10 +1502,10 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1cae49d2-814f-471c-a2b4-2701de53323d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha64cfa32g5770g848ag8710g23e96b9a8981" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Top_Pearl_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_MG_Ophidian" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_105" />
         <field name="UUID" type="IdTableFieldDefinition" value="103b942a-c4f8-483b-a9d5-8ce3925f7d1a" />
@@ -1517,7 +1517,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="52a51437-fb1b-4d62-b7c3-1729e62cacd8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heae6d20dg07edg9401ge891g410cd9fa613e" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_FA" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FA_TauntingStylus" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1531,7 +1531,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="52a51437-fb1b-4d62-b7c3-1729e62cacd8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc33eb321gca3ag2a56g2669gc271479b3e25" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FA_TauntingStylus" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1545,7 +1545,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="52a51437-fb1b-4d62-b7c3-1729e62cacd8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha5c8c8d2g7818ge85dg657dga5902e53b40b" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FA_TauntingStylus" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1560,7 +1560,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b882fce2-115f-48fa-84f9-5fc82cf048d7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heab0f239g141fg811cgfca3g343c98eee063" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_FB" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FB_CoralRidges" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1574,7 +1574,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b882fce2-115f-48fa-84f9-5fc82cf048d7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hefaf0081g40d9g7c94g3468g2e5d22b515c0" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FB_CoralRidges" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1588,7 +1588,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b882fce2-115f-48fa-84f9-5fc82cf048d7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha4cd5ae2ge7c9g307bg9b89g324611ddfa9d" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FB" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FB_CoralRidges" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1603,7 +1603,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="773d25c6-399d-43aa-ac9e-4f78f956e7b7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hda1fbed8gace4g9797g20e3g90f102cad42d" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_FC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FC_PorcupineChops" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1617,7 +1617,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="773d25c6-399d-43aa-ac9e-4f78f956e7b7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h350eda16g348dge95bg2796gdbd62f8404dc" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FC_PorcupineChops" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1631,7 +1631,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="773d25c6-399d-43aa-ac9e-4f78f956e7b7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha6bf7b80gd7b1gaa25g20abg2340f4871017" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FC_PorcupineChops" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1646,7 +1646,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b38771b-acb0-4f7f-9ee1-b9946ab86356" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb7be190cg00b7g7568gb3dbgc2cd010af0c5" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_FD" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FD_JawsOfRuin" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1660,7 +1660,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b38771b-acb0-4f7f-9ee1-b9946ab86356" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h189711b8g6d54g4ab7g5462g2b1577b00253" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FD_JawsOfRuin" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1674,7 +1674,50 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0b38771b-acb0-4f7f-9ee1-b9946ab86356" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h16ed2fa4g3cf8g5e44ga11eg5b544c7ada7f" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FD_JawsOfRuin" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_147" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9f985f71-387c-4e65-8ee1-b07779f2292f" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="bf56be9e-c570-417d-9fca-5e79df1d7015" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h54d235c3g699cg9727g09d1gb5f735019eb3" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_FD_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FD_JawsOfRuin_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_148" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5848d886-3584-4a6f-910f-0cbb4f00c9db" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="7b4426e9-d7b1-4a07-a2f4-ea63b6a159e2" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="bf56be9e-c570-417d-9fca-5e79df1d7015" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc7e5fce2g3601ga60bg3497g4163facccbcc" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FD_JawsOfRuin_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_149" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ec304779-9f8d-4999-b1e2-01d8f8264fec" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c3d698dd-705f-42d1-b25f-579531384b97" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="bf56be9e-c570-417d-9fca-5e79df1d7015" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h652f58e9g4fe5g585egb694ge7d1e96e3275" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FD_JawsOfRuin_Short" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1689,7 +1732,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="859a1b14-1691-48c2-aa28-55991308f212" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h32802794g0e2agf0bfgc9a7g14379deaece3" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_FE" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FE_SombreCalamity" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1703,7 +1746,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="859a1b14-1691-48c2-aa28-55991308f212" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc88d48c0g13a7ge1ffg3736g1108c2df613f" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FE_SombreCalamity" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1717,7 +1760,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="859a1b14-1691-48c2-aa28-55991308f212" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he2b3ad62g317fg97aag7b4cga039213e2a69" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_FE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_FE_SombreCalamity" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1732,7 +1775,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="200e5e0b-b632-4daa-8c52-8341108e42ab" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5148d310g9b93g9403g3ca1gcc5567dae8ce" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_MA" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MA_InverseCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1746,7 +1789,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="200e5e0b-b632-4daa-8c52-8341108e42ab" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h87ef1b61gb223gec34ge765gc0ec9463cee9" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MA_InverseCrown" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1760,7 +1803,50 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="200e5e0b-b632-4daa-8c52-8341108e42ab" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc595414ag0fd1gcf63g2042gb8ebfd95f8dc" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MA" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MA_InverseCrown" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_150" />
+        <field name="UUID" type="IdTableFieldDefinition" value="39356395-d97f-4791-9884-42ff328efcdd" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="cf762bb8-016c-4652-953c-f72f810a6fb5" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h51641906gd652g9b52gfe70g2dac8af5d6b6" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_MA_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MA_InverseCrown_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_151" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cae31d5c-5126-4647-a32e-f49638783878" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="7b4426e9-d7b1-4a07-a2f4-ea63b6a159e2" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="cf762bb8-016c-4652-953c-f72f810a6fb5" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h66d38460gee25g0e1fg19e3gdc8945b033e2" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MA_InverseCrown_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_152" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c1f30477-1b9a-4e06-a436-67c8bde134a6" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c3d698dd-705f-42d1-b25f-579531384b97" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="cf762bb8-016c-4652-953c-f72f810a6fb5" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h219b5416g3779g2db6g911ag8c2628fc1ecb" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MA_InverseCrown_Short" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1775,7 +1861,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="cab8bd4f-ae7e-422e-a1bd-dd958ff521a2" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd9dd6929ga704gfbb5gca38g5c01575b1864" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_MC" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MC_ConciseStrenght" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1789,7 +1875,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="cab8bd4f-ae7e-422e-a1bd-dd958ff521a2" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb15b9fa2gcafagc4cbg964bg8b93de0c997d" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MC_ConciseStrenght" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1803,7 +1889,50 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="cab8bd4f-ae7e-422e-a1bd-dd958ff521a2" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h344d4436gf479g5ea3g2245g46dc4b396a58" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MC_ConciseStrenght" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_153" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a6241c17-c842-423f-a417-1bf0de11d6d8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="5e8f7063-439f-495a-a895-ee927b549c8c" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h52f059b2g8902gc890g6c95gdf1adbb2bb0d" version="2" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_MC_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MC_ConciseStrenght_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_154" />
+        <field name="UUID" type="IdTableFieldDefinition" value="80e54205-6178-4a6b-a25f-80297b68dee8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="7b4426e9-d7b1-4a07-a2f4-ea63b6a159e2" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="5e8f7063-439f-495a-a895-ee927b549c8c" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h83ab647egfa40gb21agc2d9gaa55b63213e3" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MC_ConciseStrenght_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_155" />
+        <field name="UUID" type="IdTableFieldDefinition" value="91b78cc5-f9aa-49b8-96aa-671675bd8305" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c3d698dd-705f-42d1-b25f-579531384b97" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="5e8f7063-439f-495a-a895-ee927b549c8c" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hab19a42cg0f5fg352cgf70eg32be0291cd00" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MC_ConciseStrenght_Short" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1818,7 +1947,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="dd59efa7-9455-4117-9159-a58dead366b5" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf77c6365g20d9g588cgb481g2a1d53c088ba" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_MD" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MD_NestONeedles" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1832,7 +1961,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="dd59efa7-9455-4117-9159-a58dead366b5" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd0d06415gc505gc42aga2bdga21226c9bf3c" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MD_NestONeedles" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1846,7 +1975,50 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="dd59efa7-9455-4117-9159-a58dead366b5" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h138776b5g8740gf50bgff6cg8b250107d51e" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MD" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MD_NestONeedles" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_156" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bd3849fd-8c4f-4f80-af9f-6ae6f7293a33" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="0e8a6aac-d4e0-428c-a6c2-5c7d70231119" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha2065ae6g7e8fg8134g1b0bg74eff0b7c135" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_MD_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MD_NestONeedles_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_157" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2d19e132-55ff-4222-8d33-a59e00ac059a" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="7b4426e9-d7b1-4a07-a2f4-ea63b6a159e2" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="0e8a6aac-d4e0-428c-a6c2-5c7d70231119" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9c278c71gee43g7972g501egae22ce9a7a51" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MD_NestONeedles_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_158" />
+        <field name="UUID" type="IdTableFieldDefinition" value="833bf889-ba97-438d-b48a-5c016641ba64" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c3d698dd-705f-42d1-b25f-579531384b97" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="0e8a6aac-d4e0-428c-a6c2-5c7d70231119" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h39903db3gf57eg84e3g3bafg04c3b19ed6c6" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MD_NestONeedles_Short" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1861,7 +2033,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="54ff6233-f984-49e6-8b11-456c1b4ab924" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc366ea2bgf6c5g1419gbbd4gfe105d8f4c57" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_ME" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_ME_Dragonglass" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1875,7 +2047,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="54ff6233-f984-49e6-8b11-456c1b4ab924" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1e316dafgd3a9g2385gf1b1g1338bc90beba" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_ME_Dragonglass" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1889,7 +2061,50 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="54ff6233-f984-49e6-8b11-456c1b4ab924" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0350de5ag2296gf408gb199g724a255adf71" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_ME" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_ME_Dragonglass" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_159" />
+        <field name="UUID" type="IdTableFieldDefinition" value="616b4a8b-cf3a-45ac-a4de-ec5e014569b8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="76c32ab4-9907-4af7-816a-fda83832442a" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb77683cfg162dg9e4fg5e58g50a084b9905d" version="2" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_ME_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_ME_Dragonglass_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_160" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3dff7c51-aa2e-42c1-a2c1-08334f651dc8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="7b4426e9-d7b1-4a07-a2f4-ea63b6a159e2" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="76c32ab4-9907-4af7-816a-fda83832442a" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7e97a106g7613gee2cg112cg4c21b8b58b30" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_ME_Dragonglass_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_161" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b107de4b-7802-4326-8b8a-30923e595135" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c3d698dd-705f-42d1-b25f-579531384b97" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="76c32ab4-9907-4af7-816a-fda83832442a" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hde41fa8fg4423gcf77gded6gccdd284d7979" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_ME_Dragonglass_Short" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1904,7 +2119,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="30f072ce-d4f6-49cc-88d6-e5e38db58cf8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd2a70aa0g3e35gf1a8g6e4dg9b9dda75336d" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_MF" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MF_RoyalPlateau" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1918,7 +2133,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="30f072ce-d4f6-49cc-88d6-e5e38db58cf8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h28588ae3gae78ga034g87dfg3aed7fa261f1" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MF_RoyalPlateau" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1932,7 +2147,50 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="30f072ce-d4f6-49cc-88d6-e5e38db58cf8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb9240f86g21e6ga9edgd282g6d94946e9c81" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MF" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MF_RoyalPlateau" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_162" />
+        <field name="UUID" type="IdTableFieldDefinition" value="795bdf59-7dd0-4534-b842-4166cabde624" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="759b9c30-788d-43e0-bf92-6301d1fb45f6" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h901d0939g9ea3g617cge5f3g9ae8b2d3bfe7" version="2" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_MF_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MF_RoyalPlateau_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_163" />
+        <field name="UUID" type="IdTableFieldDefinition" value="89cc374d-d936-4a1d-88a7-00564cc28771" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="7b4426e9-d7b1-4a07-a2f4-ea63b6a159e2" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="759b9c30-788d-43e0-bf92-6301d1fb45f6" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0c9ecaf1g2774g7208gf5ffg6c862af7c918" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MF_RoyalPlateau_Short" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_164" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bcbaa054-e632-47be-b0f9-7440df8a77f6" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c3d698dd-705f-42d1-b25f-579531384b97" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="759b9c30-788d-43e0-bf92-6301d1fb45f6" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he2b67479gc337gde3bge060gce276214689f" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MF_RoyalPlateau_Short" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1947,7 +2205,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="cee52027-a179-406f-b017-78bf73011647" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdde9a9f1ga21agf58dgb77ag82e3b6f32aab" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_EL_FPearl_Jaw_Pearl_MG" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MG_SharkFins" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1961,7 +2219,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="cee52027-a179-406f-b017-78bf73011647" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h35f2f050gccccg638fg2c2age7e50bd28985" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MG_SharkFins" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1975,10 +2233,10 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="cee52027-a179-406f-b017-78bf73011647" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h148da052g0e01gb8e5g6520gdcbd0f9ab31e" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Jaw_Pearl_MG" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_MG_SharkFins" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_138" />
         <field name="UUID" type="IdTableFieldDefinition" value="22ff9bda-538a-4e97-9c0e-6e4d5267c6b0" />
@@ -1987,9 +2245,10 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="e7e887a2-7d88-4fdd-b456-cc05ab25bb2f" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="8db70450-fe07-422a-91e6-c99aa50a7b29" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h799e2d1fg4924gbd47geae7gde862fa70bcf" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Crest_Pearl_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_0_NoCrest" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Head_Pearl_Top_NoCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2001,9 +2260,9 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="7b4426e9-d7b1-4a07-a2f4-ea63b6a159e2" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="8db70450-fe07-422a-91e6-c99aa50a7b29" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h58934cd3gb5a2g6d47gb631gb0e69041ba60" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Crest_Pearl_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_0_NoCrest" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2015,12 +2274,12 @@
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="c3d698dd-705f-42d1-b25f-579531384b97" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornTop" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="8db70450-fe07-422a-91e6-c99aa50a7b29" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfc129738gbe73g850dgf29fg28ab67b5667f" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Crest_Pearl_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_CrestTop_0_NoCrest" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_141" />
         <field name="UUID" type="IdTableFieldDefinition" value="e62759ed-0616-4090-9442-d067d39e747b" />
@@ -2031,7 +2290,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd681a07dge43cge77bg1ee6g7e437686ae47" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_0_NoChin" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2045,7 +2304,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h215be739g1aa3gc500g017agddb843e17075" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_0_NoChin" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2059,10 +2318,10 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornChin" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h67fac510g0ec1g899ag0232g3e8929ab52ce" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Chin_Pearl_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Chin_0_NoChin" />
       </fields>
     </stat_object>
-    <stat_object is_substat="false">
+    <stat_object color="#FF000000" is_substat="false">
       <fields>
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_144" />
         <field name="UUID" type="IdTableFieldDefinition" value="3413a3f5-6cd8-4f3d-9c46-b44328dbcee4" />
@@ -2073,7 +2332,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heef85706g554ega4dfgccf1gc2090efd319a" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Crest_Pearl_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_0_NoJaw" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2087,7 +2346,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h51add6d7g954cgc62fg8bbbg27cd32108115" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Crest_Pearl_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_0_NoJaw" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2101,7 +2360,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="DragonbornJaw" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="00000000-0000-0000-0000-000000000000" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha376d3c6gc2bbgc630geb88gd46e435905c8" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_EL_F_Crest_Pearl_None" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_MF_Head_Pearl_Jaw_0_NoJaw" />
       </fields>
     </stat_object>
   </stat_objects>
